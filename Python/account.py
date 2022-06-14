@@ -1,7 +1,6 @@
 from tokenize import String
 
-
-class Acount:
+class Account:
     id          = int;
     name        = str;
     document    = str;
